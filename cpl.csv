@@ -1,11 +1,11 @@
-﻿Designator	Device	Footprint	Mid X	Mid Y	Ref X	Ref Y	Pad X	Pad Y	Pins	Layer	Rotation	SMD	Comment	Name
+Designator	Device	Footprint	Mid X	Mid Y	Ref X	Ref Y	Pad X	Pad Y	Pins	Layer	Rotation	SMD	Comment	Name
 "U1"	"device_4382"	"QFN68_8X8X04P"	"24.1mm"	"9.108mm"	"24.1mm"	"9.108mm"	"28.1mm"	"5.908mm"	"69"	"T"	"90"	"Yes"	"CH634X"	"CH634X"
 "U6"	"device_aecf"	"SOT23_6"	"68.63mm"	"10.59mm"	"68.63mm"	"10.59mm"	"67.33mm"	"11.54mm"	"6"	"T"	"270"	"Yes"	"CH217K"	"CH217K"
 "U3"	"device_8b57"	"SOT23_6"	"87.02mm"	"10.59mm"	"87.02mm"	"10.59mm"	"85.72mm"	"11.54mm"	"6"	"T"	"270"	"Yes"	"CH217K"	"CH217K"
 "U5"	"device_6a20"	"SOT23_6"	"48.4mm"	"10.59mm"	"48.4mm"	"10.59mm"	"47.1mm"	"11.54mm"	"6"	"T"	"270"	"Yes"	"CH217K"	"CH217K"
 "U4"	"device_8776"	"SOT23_6"	"28.6mm"	"20.759mm"	"28.6mm"	"20.759mm"	"27.3mm"	"21.709mm"	"6"	"T"	"270"	"Yes"	"CH217K"	"CH217K"
 "Y1"	"device_2bd5"	"SMD_2016_4P"	"14.45mm"	"7.2mm"	"14.45mm"	"7.2mm"	"13.925mm"	"7.825mm"	"4"	"T"	"270"	"Yes"	"24MHz"	"24MHz"
-"U2"	"device_292e"	"SOT23"	"10.2mm"	"13.337mm"	"10.2mm"	"13.337mm"	"11.2mm"	"12.387mm"	"3"	"T"	"180"	"Yes"	"CH213K"	"CH213K"
+"U2"	"device_292e"	"SOT23"	"10.2mm"	"13.337mm"	"10.2mm"	"13.337mm"	"11.2mm"	"12.387mm"	"3"	"T"	"0"	"Yes"	"CH213K"	"CH213K"
 "C10"	"device_9c5c"	"C0402M"	"16.12mm"	"5.9mm"	"16.12mm"	"5.9mm"	"16.12mm"	"6.4mm"	"2"	"T"	"270"	"Yes"	"20pF,50V"	"20pF,50V"
 "C11"	"device_3f20"	"C0402M"	"16.12mm"	"7.9mm"	"16.12mm"	"7.9mm"	"16.12mm"	"7.4mm"	"2"	"T"	"90"	"Yes"	"20pF,50V"	"20pF,50V"
 "C31"	"device_e1d4"	"C0402M"	"20.4mm"	"4.058mm"	"20.4mm"	"4.058mm"	"20.9mm"	"4.058mm"	"2"	"T"	"180"	"Yes"	"100nF,16V"	"100nF,16V"
